@@ -1,0 +1,10 @@
+- https://leetcode.com/problems/gray-code/description/?envType=problem-list-v2&envId=bit-manipulation
+- https://leetcode.com/problems/add-binary/description/?envType=problem-list-v2&envId=bit-manipulation 
+- https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=bit-manipulation
+- https://leetcode.com/problems/number-of-1-bits/description/?envType=problem-list-v2&envId=bit-manipulation
+- https://leetcode.com/problems/power-of-two/description/?envType=problem-list-v2&envId=bit-manipulation
+- https://leetcode.com/problems/count-complete-tree-nodes/description/?envType=problem-list-v2&envId=bit-manipulation
+- https://leetcode.com/problems/single-number-iii/description/?envType=problem-list-v2&envId=bit-manipulation
+- https://leetcode.com/problems/counting-bits/description/?envType=problem-list-v2&envId=bit-manipulation
+- https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/?envType=problem-list-v2&envId=bit-manipulation
+- https://leetcode.com/problems/subsets/description/?envType=problem-list-v2&envId=bit-manipulation
