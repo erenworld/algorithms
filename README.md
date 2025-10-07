@@ -1,2 +1,2 @@
-# leetcode-tracker
+# Algorithms
 Problem solving > everything
